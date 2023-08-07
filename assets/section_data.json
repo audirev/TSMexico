@@ -1,0 +1,17 @@
+[
+  {
+    "id": "PLA1",
+    "name": "Platino 1",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA2",
+    "name": "Platino 2",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA3",
+    "name": "Platino 3",
+    "zoneId": "PLA"
+  }
+]

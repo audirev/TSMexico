@@ -1,0 +1,10 @@
+[
+  {
+    "songId": "ORG",
+    "sections": [
+      { "sectionId": "PLA1", "colorCode": "Orange" },
+      { "sectionId": "PLA2", "colorCode": "Orange" },
+      { "sectionId": "PLA3", "colorCode": "Orange" }
+    ]
+  }
+]
