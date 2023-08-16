@@ -129,7 +129,7 @@ class _SelectionPage extends State<SelectionPage> {
                         child: Text(
                           'Generar Color',
                           style: TextStyle(
-                              color: Colors.white,
+                              color: selectedColor == Colors.white ? Colors.black : Colors.white,
                               fontSize: 18
                           )),
                         style: ElevatedButton.styleFrom(
@@ -180,6 +180,14 @@ class _SelectionPage extends State<SelectionPage> {
         selectedColor = Colors.black;
       case 'Orange':
         selectedColor = Colors.orange;
+      case 'Purple':
+        selectedColor = Colors.purple;
+      case 'Brown':
+        selectedColor = Colors.brown;
+      case 'White':
+        selectedColor = Colors.white;
+      case 'Pink':
+        selectedColor = Color.fromARGB(255, 243, 130, 234);
       default:
         selectedColor = Colors.red;
     }

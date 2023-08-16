@@ -43,6 +43,14 @@ class ColorPage extends StatelessWidget {
         return Colors.black;
       case 'Orange':
         return Colors.orange;
+      case 'Purple':
+        return Colors.purple;
+      case 'Brown':
+        return Colors.brown;
+      case 'White':
+        return Colors.white;
+      case 'Pink':
+        return Color.fromARGB(255, 243, 130, 234);
       default:
         return Colors.red;
     }
