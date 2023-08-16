@@ -13,5 +13,495 @@
     "id": "PLA3",
     "name": "Platino 3",
     "zoneId": "PLA"
+  },
+  {
+    "id": "PLA4",
+    "name": "Platino 4",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA5",
+    "name": "Platino 5",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA6",
+    "name": "Platino 6",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA7",
+    "name": "Platino 7",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA8",
+    "name": "Platino 8",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA9",
+    "name": "Platino 9",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA10",
+    "name": "Platino 10",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA11",
+    "name": "Platino 11",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA12",
+    "name": "Platino 12",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA13",
+    "name": "Platino 13",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA14",
+    "name": "Platino 14",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA15",
+    "name": "Platino 15",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA16",
+    "name": "Platino 16",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA17",
+    "name": "Platino 17",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA18",
+    "name": "Platino 18",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA19",
+    "name": "Platino 19",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA20",
+    "name": "Platino 20",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA21",
+    "name": "Platino 21",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA22",
+    "name": "Platino 22",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA23",
+    "name": "Platino 23",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA24",
+    "name": "Platino 24",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA25",
+    "name": "Platino 25",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA26",
+    "name": "Platino 26",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA27",
+    "name": "Platino 27",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA28",
+    "name": "Platino 28",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA29",
+    "name": "Platino 29",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA30",
+    "name": "Platino 30",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA31",
+    "name": "Platino 31",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA32",
+    "name": "Platino 32",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA33",
+    "name": "Platino 33",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA34",
+    "name": "Platino 34",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA35",
+    "name": "Platino 35",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA36",
+    "name": "Platino 36",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA37",
+    "name": "Platino 37",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA38",
+    "name": "Platino 38",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA39",
+    "name": "Platino 39",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA40",
+    "name": "Platino 40",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA41",
+    "name": "Platino 41",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA42",
+    "name": "Platino 42",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA43",
+    "name": "Platino 43",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA44",
+    "name": "Platino 44",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA45",
+    "name": "Platino 45",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "PLA46",
+    "name": "Platino 46",
+    "zoneId": "PLA"
+  },
+  {
+    "id": "VER1",
+    "name": "Verde 1",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER2",
+    "name": "Verde 2",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER3",
+    "name": "Verde 3",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER4",
+    "name": "Verde 4",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER5",
+    "name": "Verde 5",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER6",
+    "name": "Verde 6",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER7",
+    "name": "Verde 7",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER8",
+    "name": "Verde 8",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER9",
+    "name": "Verde 9",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER10",
+    "name": "Verde 10",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER11",
+    "name": "Verde 11",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER12",
+    "name": "Verde 12",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER13",
+    "name": "Verde 13",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER14",
+    "name": "Verde 14",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER15",
+    "name": "Verde 15",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER16",
+    "name": "Verde 16",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER17",
+    "name": "Verde 17",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER18",
+    "name": "Verde 18",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER19",
+    "name": "Verde 19",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER20",
+    "name": "Verde 20",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER21",
+    "name": "Verde 21",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER22",
+    "name": "Verde 22",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER23",
+    "name": "Verde 23",
+    "zoneId": "VER"
+  },
+  {
+    "id": "VER24",
+    "name": "Verde 24",
+    "zoneId": "VER"
+  },
+  {
+    "id": "NAR1",
+    "name": "Naranja 1",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR2",
+    "name": "Naranja 2",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR3",
+    "name": "Naranja 3",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR4",
+    "name": "Naranja 4",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR5",
+    "name": "Naranja 5",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR6",
+    "name": "Naranja 6",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR7",
+    "name": "Naranja 7",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR8",
+    "name": "Naranja 8",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR9",
+    "name": "Naranja 9",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR10",
+    "name": "Naranja 10",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR11",
+    "name": "Naranja 11",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR12",
+    "name": "Naranja 12",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR13",
+    "name": "Naranja 13",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR14",
+    "name": "Naranja 14",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR15",
+    "name": "Naranja 15",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR16",
+    "name": "Naranja 16",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR17",
+    "name": "Naranja 17",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR18",
+    "name": "Naranja 18",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR19",
+    "name": "Naranja 19",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR20",
+    "name": "Naranja 20",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR21",
+    "name": "Naranja 21",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR22",
+    "name": "Naranja 22",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR23",
+    "name": "Naranja 23",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR24",
+    "name": "Naranja 24",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR25",
+    "name": "Naranja 25",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR26",
+    "name": "Naranja 26",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR27",
+    "name": "Naranja 27",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR28",
+    "name": "Naranja 28",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR29",
+    "name": "Naranja 29",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "NAR30",
+    "name": "Naranja 30",
+    "zoneId": "NAR"
+  },
+  {
+    "id": "GEN1",
+    "name": "General B",
+    "zoneId": "GEN"
   }
 ]

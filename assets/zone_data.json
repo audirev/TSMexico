@@ -2,5 +2,17 @@
   {
     "id": "PLA",
     "name": "Platino"
+  },
+  {
+    "id": "VER",
+    "name": "Verde"
+  },
+  {
+    "id": "NAR",
+    "name": "Naranja"
+  },
+  {
+    "id": "GEN",
+    "name": "General"
   }
 ]

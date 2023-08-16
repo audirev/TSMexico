@@ -1,6 +1,22 @@
 [
     {
-      "id": "ORG",
-      "name": "All orange"
+      "id": "MRJ",
+      "name": "Marjorie"
+    },
+    {
+      "id": "ENC",
+      "name": "Enchanted"
+    },
+    {
+      "id": "SP1",
+      "name": "Canción Sorpresa 1"
+    },    
+    {
+      "id": "LVR",
+      "name": "Lover"
+    },
+    {
+      "id": "ATW",
+      "name": "All too well"
     }
 ]
