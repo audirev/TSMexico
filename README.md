@@ -1,10 +1,13 @@
-# ts_mexico
+# TS México APP
 
-A new Flutter project.
+Hola Swifties.
 
-## Getting Started
+## Cómo usarla.
 
-This project is a starting point for a Flutter application.
+Abre tu aplicación, selecciona tu zona y sección en donde estés ubicado.
+
+![image](https://github.com/audirev/TSMexico/assets/49045252/9fa2661e-e37d-477a-933e-e8e0df46452d)
+
 
 A few resources to get you started if this is your first Flutter project:
 
