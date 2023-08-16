@@ -36,12 +36,27 @@ class _AboutPage extends State<AboutPage> {
               ),
               SizedBox(height: 16),
               Text(
-                'Desarrollador de software, amante de la f1 🏁, pero sobretodo de la música de Taylor👱‍♀️❤️, que me ha acompañado desde hace más de una década y ha sido la motivación para crear esta app.',
+                'Desarrollador de software, aMante de la f1 🏁, pero sobretodo de la música de Taylor👱‍♀️❤️, que me ha acompañAdo desde hace más De una Década y ha sido la motivación para crear esta app.',
                 style: TextStyle(fontSize: 16),
               ),
               SizedBox(height: 16),
               Text(
                 'Siéntete libre de contactar conmigo si tienes alguna nueva idea de cómo mejorar la app a través del correo: ingcordova2@gmail.com',
+                style: TextStyle(fontSize: 16),
+              ),
+              SizedBox(height: 40),
+              Text(
+                'Gracias por su ayuda a:',
+                style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+              ),
+              SizedBox(height: 0),
+              Text(
+                'Benjamín Molina Sosa',
+                style: TextStyle(fontSize: 16),
+              ),
+              SizedBox(height: 0),
+              Text(
+                'Luis Ángel Hernández Calvo',
                 style: TextStyle(fontSize: 16),
               ),
               SizedBox(height: 24),
@@ -51,7 +66,7 @@ class _AboutPage extends State<AboutPage> {
                   child: Padding(
                     padding: const EdgeInsets.only(bottom: 16.0),
                     child: Text(
-                      'Versión 1.0.0',
+                      'Versión 1.0.1',
                       style: TextStyle(fontSize: 14, color: Colors.grey),
                     ),
                   ),

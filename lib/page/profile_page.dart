@@ -63,8 +63,8 @@ class _ProfilePage extends State<ProfilePage> {
 
     var sectionResponse = await loadSections();
     var sectionsForZone = sectionResponse.where((section) => section.zoneId == zoneSelected.id).toList();
-    sectionsForZone.sort((a, b) => a.name.compareTo(b.name));
-
+    sectionsForZone.sort((a, b) => int.parse(a.name.replaceAll(new RegExp(r'[^0-9]'),'')).compareTo(int.parse(b.name.replaceAll(new RegExp(r'[^0-9]'),''))));
+    
     setState(() {      
       sections = sectionsForZone;
     });
